@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/lab2.dir/main.cpp.o CMakeFiles/lab2.dir/cell_block.cpp.o -o lab2 
